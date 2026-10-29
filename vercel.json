@@ -1,0 +1,11 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/games/sun-city", "destination": "/games/sun-city.html" },
+    { "source": "/games", "destination": "/games.html" },
+    { "source": "/market", "destination": "/market.html" },
+    { "source": "/clans", "destination": "/clans.html" },
+    { "source": "/support", "destination": "/support.html" },
+    { "source": "/login", "destination": "/login.html" }
+  ]
+}

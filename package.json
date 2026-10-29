@@ -1,0 +1,27 @@
+{
+  "name": "elevenrift",
+  "version": "1.0.0",
+  "description": "ElevenRift Hub - Unified Solana Gaming Ecosystem, Cross-Game Profiles, Marketplace & Clan Tournaments",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -l 3000",
+    "dev": "python -m http.server 3000"
+  },
+  "keywords": [
+    "solana",
+    "gaming",
+    "hub",
+    "web3",
+    "crypto",
+    "marketplace",
+    "clans",
+    "rift",
+    "elevenrift"
+  ],
+  "author": "WerelayAgent <WerelayAgent@users.noreply.github.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WerelayAgent/elevenrift.git"
+  }
+}
